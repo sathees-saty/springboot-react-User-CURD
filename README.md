@@ -51,7 +51,7 @@ Now change App-User-Insert.js to App.js and run the front end application.
 <br>
 Now change App-User-Delete.js to App.js and run the front end application.
 <br>
-
+<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/0fa440ae-f8fc-4c48-8836-14e043c36379" alt="GET" width="500" height="600">
 <br>
 <br>
 <br>
