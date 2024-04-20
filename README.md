@@ -53,18 +53,18 @@ Now change App-User-Delete.js to App.js and run the front end application.
 <br>
 GET
 <br>
-<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/0fa440ae-f8fc-4c48-8836-14e043c36379" alt="GET" width="500" height="600">
+<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/0fa440ae-f8fc-4c48-8836-14e043c36379" alt="GET" width="700" height="500">
 <br>
 PUT (update)
 <br>
-<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/4d99dfcb-a43e-4df3-8ecf-072ba1374a2d" alt="PUT" width="500" height="600">
+<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/4d99dfcb-a43e-4df3-8ecf-072ba1374a2d" alt="PUT" width="700" height="600">
 <br>
 POST (insert)
 <br>
-<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/5f313c99-3cdc-4b49-b2a4-b2a1458306f4" alt="POST" width="500" height="600">
+<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/5f313c99-3cdc-4b49-b2a4-b2a1458306f4" alt="POST" width="700" height="600">
 <br>
 DELETE
 <br>
-<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/b1adbbbf-b759-4e0f-99ff-030db8087af5" alt="DELETE" width="500" height="600">
+<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/b1adbbbf-b759-4e0f-99ff-030db8087af5" alt="DELETE" width="700" height="600">
 <br>
 </html>
