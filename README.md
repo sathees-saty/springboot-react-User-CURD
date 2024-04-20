@@ -13,6 +13,7 @@ Refer springboot-react-mysql-CURD repoitory and create frontend application
 Test the Springboot webservices using Postman and ensure it's working: it's simple application to learn React.js and Webservice call. The output logged into console. we are not using DB.
 <br>
 GET: http://localhost:8080/api/users
+<br>
 PUT: http://localhost:8080/api/users/2
 <br> Input -> Body->Raw
 <br>
@@ -23,7 +24,7 @@ PUT: http://localhost:8080/api/users/2
         "email": "kumar@gmail.com"
     }  
 <br>
-<br>
+
   Output: Status 200 OK
 <br>
 POST: http://localhost:8080/api/users
@@ -42,5 +43,12 @@ DELETE: http://localhost:8080/api/users/1
 <br>
     Output: Status 200 OK
 <br>
-  
+Now change App-User-Get-All.js to App.js and run the front end application.
+<br>
+Now change App-User-Update.js to App.js and run the front end application.
+<br>
+Now change App-User-Insert.js to App.js and run the front end application.
+<br>
+Now change App-User-Delete.js to App.js and run the front end application.
+<br>
 </html>
