@@ -2,7 +2,7 @@
 <html>
 Create simple Springboot backend User application
 <br>
-Create simple react application
+Create simple react application (project name: my-test-get)
 <br>
 Download source from github:
 <br>
