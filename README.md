@@ -57,7 +57,7 @@ GET
 <br>
 PUT (update)
 <br>
-<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/4d99dfcb-a43e-4df3-8ecf-072ba1374a2d" alt="PUT" width="700" height="600">
+<img src="https://github.com/sathees-saty/springboot-react-User-CURD/assets/65384711/4d99dfcb-a43e-4df3-8ecf-072ba1374a2d" alt="PUT" width="900" height="700">
 <br>
 POST (insert)
 <br>
